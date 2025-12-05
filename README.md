@@ -2,7 +2,7 @@
 ### AI Engineer • Machine Learning • LLMs • Data Analysis • Computer Vision
 
 I'm a Computer Science and Engineering graduate from the University of Ioannina, currently pursuing an **MSc in Data Science & Economics**.  
-My work focuses on **Deep Learning**, **Large Language Models**, **Computer Vision**, and **AI systems**.
+My work focuses on **Deep Learning**, **Large Language Models**, **Data Analysis**, and **AI systems**.
 
 ---
 
