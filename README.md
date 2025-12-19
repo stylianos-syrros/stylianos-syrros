@@ -35,18 +35,18 @@ Custom programming language compiler with DFA-based lexer, LL(1) parser, interme
 
 ---
 
-🛠 **Tech Stack**
+### 🛠 **Tech Stack**
 
-**Languages**  
+### **Languages**  
 Python, Java, C
 
-**Machine Learning & Deep Learning**  
+### **Machine Learning & Deep Learning**  
 PyTorch, TensorFlow, Scikit-learn
 
-**Computer Vision**  
+### **Computer Vision**  
 CNNs, Vision Transformers (ViT), Image Similarity Metrics (LPIPS, DISTS)
 
-**Algorithms & Theory**  
+### **Algorithms & Theory**  
 Clustering, Classification, Similarity Search, Compilers (Lexer, Parser, IR)
 
 ### **Data Analysis**
