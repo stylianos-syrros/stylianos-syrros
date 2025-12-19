@@ -1,15 +1,8 @@
-👋 Hi, I'm Stylianos Syrros
+# 👋 Hi, I'm Stylianos Syrros  
+### AI Engineer • Machine Learning • LLMs • Data Analysis • Computer Vision
 
-Computer Science & Engineering graduate with strong focus on
-Machine Learning, Deep Learning, and Software Engineering.
-
-I work on:
-• Machine Learning & Deep Learning (from scratch & with frameworks)
-• Computer Vision & similarity metrics
-• Classical ML & clustering
-• Compilers & programming languages
-• Java Object-Oriented Programming projects
-
+I'm a Computer Science and Engineering graduate from the University of Ioannina, currently pursuing an **MSc in Data Science & Economics**.  
+My work focuses on **Deep Learning**, **Large Language Models**, **Data Analysis**, and **AI systems**.
 
 ---
 
