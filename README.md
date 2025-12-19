@@ -58,5 +58,5 @@ Git, Jupyter Notebook, VS Code
 ---
 
 ## 📫 Contact  
-📧 **Email:** (updating soon with professional email)  
+📧 **Email:** stylianossyrros@gmail.com
 🔗 **LinkedIn:** coming soon  
