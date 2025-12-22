@@ -1,63 +1,72 @@
 # 👋 Hi, I'm Stylianos Syrros  
-### AI Engineer • Machine Learning • LLMs • Data Analysis • Computer Vision
+### AI Engineer • Machine Learning • Computer Vision • Data Analysis
 
-I'm a Computer Science and Engineering graduate from the University of Ioannina, currently pursuing an **MSc in Data Science & Economics**.  
-My work focuses on **Deep Learning**, **Large Language Models**, **Data Analysis**, and **AI systems**.
+I am a **Computer Science & Engineering graduate** from the University of Ioannina, currently pursuing an  
+**MSc in Data Science & Economics**.
+
+My academic and practical work focuses on **Deep Learning**, **Computer Vision**, **representation learning**,  
+and **large-scale similarity systems**, with an emphasis on **research-oriented implementations**.
 
 ---
 
 ## 🔬 Featured Projects
 
-### 🩺 Dermatology Image Similarity System  
-Perceptual similarity analysis using CNNs (VGG16, ResNet50), Vision Transformers (ViT), and perceptual metrics (LPIPS, DISTS).  
-**Tech:** Python, PyTorch, ViT, LPIPS, DISTS, NumPy, Pandas  
-➡️ *Repository coming soon*
+### 🩺 Deep Learning for Perceptual Image Similarity in Dermatology  
+Research-oriented system for perceptual similarity estimation between dermatological images, evaluated against expert ratings.  
+Implemented using CNNs (VGG16, ResNet50), Vision Transformers (ViT), and perceptual metrics (LPIPS, DISTS).
 
-### 🔍 Vision Transformer Embeddings  
-Feature extraction, embedding comparison & similarity scoring using ViT models.  
-**Tech:** PyTorch, HuggingFace Transformers, Scikit-learn  
-➡️ *Repository coming soon*
-
-### 🧠 CNN Image Classifier  
-Deep learning pipeline for image classification using custom CNNs & transfer learning.  
-**Tech:** PyTorch / TensorFlow, OpenCV, Data Augmentation  
-➡️ *Repository coming soon*
-
-### 🤖 Betting Automation System  
-Automated betting slip analysis using YOLO, OCR, and web automation via Chrome debugging protocol.  
-**Tech:** Python, YOLOv5, OCR, JavaScript Automation  
-➡️ *Repository coming soon*
-
-### ⚙️ Greek++ Compiler  
-Custom programming language compiler with DFA-based lexer, LL(1) parser, intermediate code & RISC-V generation.  
-**Tech:** Python, Automata Theory, Compiler Design  
-➡️ *Repository coming soon*
+**Tech:** Python, PyTorch, VGG16, ResNet50, ViT, LPIPS, DISTS  
+🔗 https://github.com/stylianos-syrros/deep-learning-similarity-metrics-dermatology
 
 ---
 
-### 🛠 **Tech Stack**
+### 🧠 Deep Clustering with Autoencoders  
+Unsupervised representation learning using autoencoders combined with clustering objectives for meaningful latent space formation.
 
-### **Languages**  
-Python, Java, C
+**Tech:** Python, PyTorch, Autoencoders, Clustering  
+🔗 https://github.com/stylianos-syrros/deep-clustering-autoencoder
+
+---
+
+### 📄 Large-Scale Document Similarity with MinHash & LSH  
+Efficient similarity detection in large document collections using probabilistic hashing techniques.
+
+**Tech:** Python, MinHash, Locality Sensitive Hashing (LSH)  
+🔗 https://github.com/stylianos-syrros/Large-Scale-Document-Similarity-with-MinHash-LSH
+
+---
+
+### 🌐 Community Detection in Large-Scale Graphs  
+Graph-based analysis and community detection algorithms applied to large networks.
+
+**Tech:** Python, Graph Algorithms, Network Analysis  
+🔗 https://github.com/stylianos-syrros/community-detection-large-scale-graphs
+
+---
+
+## 🛠 Tech Stack
+
+### **Programming Languages**  
+Python, C, Java
 
 ### **Machine Learning & Deep Learning**  
-PyTorch, TensorFlow, Scikit-learn
+PyTorch, Scikit-learn, Neural Networks, CNNs, Vision Transformers
 
 ### **Computer Vision**  
-CNNs, Vision Transformers (ViT), Image Similarity Metrics (LPIPS, DISTS)
+Image Classification, Image Similarity, LPIPS, DISTS
 
 ### **Algorithms & Theory**  
-Clustering, Classification, Similarity Search, Compilers (Lexer, Parser, IR)
+Clustering, Similarity Search, Graph Algorithms, Compilers
 
-### **Data Analysis**
-NumPy, Pandas, Matplotlib, SQL  
+### **Data Analysis**  
+NumPy, Pandas, Matplotlib, SQL
 
-### **Tools**
-Git, Jupyter Notebook, VS Code  
+### **Tools**  
+Git, Linux, Jupyter Notebook, VS Code
 
 ---
 
-## 📫 Contact  
-📧 **Email:** stylianossyrros@gmail.com
+## 📫 Contact
 
-🔗 **LinkedIn:** coming soon  
+📧 **Email:** stylianossyrros@gmail.com  
+🔗 **LinkedIn:** *(add when ready)*
