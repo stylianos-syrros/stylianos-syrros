@@ -32,7 +32,7 @@ Unsupervised representation learning using autoencoders combined with clustering
 Efficient similarity detection in large document collections using probabilistic hashing techniques.
 
 **Tech:** Python, MinHash, Locality Sensitive Hashing (LSH)  
-🔗 https://github.com/stylianos-syrros/Large-Scale-Document-Similarity-with-MinHash-LSH
+🔗 https://github.com/stylianos-syrros/Large-Scale-Document-Similarity-with-MinHash-and-LSH
 
 ---
 
