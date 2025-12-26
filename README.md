@@ -69,4 +69,4 @@ Git, Linux, Jupyter Notebook, VS Code
 ## 📫 Contact
 
 📧 **Email:** stylianossyrros@gmail.com  
-🔗 **LinkedIn:** *(add when ready)*
+🔗 **LinkedIn:** https://www.linkedin.com/in/stylianos-syrros/
