@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Stylianos Syrros  
-### AI Engineer • Machine Learning • Computer Vision • Data Analysis
+### AI Engineer • Machine Learning • Computer Vision • Data Analysis • Software Engineering
+
 
 I am a **Computer Science & Engineering graduate** from the University of Ioannina, currently pursuing an  
 **MSc in Data Science & Economics**.
@@ -51,6 +52,10 @@ Python, C, Java
 
 ### **Machine Learning & Deep Learning**  
 PyTorch, Scikit-learn, Neural Networks, CNNs, Vision Transformers
+
+### **Software Engineering**
+Object-Oriented Programming (OOP), Java, GUI Applications (Swing),  
+File I/O (TXT, XML), System Design, Modular Code Architecture
 
 ### **Computer Vision**  
 Image Classification, Image Similarity, LPIPS, DISTS
