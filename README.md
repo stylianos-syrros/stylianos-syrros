@@ -8,6 +8,8 @@ I am a **Computer Science & Engineering graduate** from the University of Ioanni
 My academic and practical work focuses on **Deep Learning**, **Computer Vision**, **representation learning**,  
 and **large-scale similarity systems**, with an emphasis on **research-oriented implementations**.
 
+In parallel, I develop structured, modular software systems, applying software engineering principles
+such as clean architecture, data modeling, and maintainable code design.
 ---
 
 ## 🔬 Featured Projects
