@@ -41,7 +41,6 @@ Efficient similarity detection in large document collections using probabilistic
 ---
 
 ### 🧩 Sales Commissions Management System (Java)
-
 Desktop application for managing sales agents, receipts, and commission calculations.
 Includes structured data modeling, GUI interaction, and file-based persistence (TXT/XML).
 
