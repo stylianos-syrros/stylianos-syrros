@@ -40,12 +40,11 @@ Efficient similarity detection in large document collections using probabilistic
 
 ---
 
-### 🧩 Sales Commissions Management System (Java)
-Desktop application for managing sales agents, receipts, and commission calculations.
-Includes structured data modeling, GUI interaction, and file-based persistence (TXT/XML).
+### 🧩 Thesis Management System (SpringBoot)
+Full-stack web application for university thesis management, designed with clean backend architecture and structured workflows. Supports role-based authentication, thesis subject application and assignment strategies, grading management, and relational database integration.
 
-**Tech:** Java, Swing, OOP, File I/O, Software Design  
-🔗 https://github.com/stylianos-syrros/sales-commissions-management
+**Tech:** Java, Spring Boot, Spring Security, MySQL, MVC Architecture  
+🔗 https://github.com/stylianos-syrros/thesis-management-system
 
 ---
 
