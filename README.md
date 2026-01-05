@@ -58,8 +58,11 @@ Python, C, Java
 PyTorch, Scikit-learn, Neural Networks, CNNs, Vision Transformers
 
 ### **Software Engineering**
-Object-Oriented Programming (OOP), Java, GUI Applications (Swing),  
-File I/O (TXT, XML), System Design, Modular Code Architecture
+Object-Oriented Programming (OOP), Java,  
+Backend Development (Spring Boot, MVC Architecture),  
+RESTful Services, Database Design & Integration (SQL),  
+Web Applications (HTML/CSS), GUI Applications (Swing), File I/O   
+System Design, Modular & Maintainable Code Architecture
 
 ### **Computer Vision**  
 Image Classification, Image Similarity, LPIPS, DISTS
