@@ -44,8 +44,8 @@ Efficient similarity detection in large document collections using probabilistic
 Desktop application for managing sales agents, receipts, and commission calculations.
 Includes structured data modeling, GUI interaction, and file-based persistence (TXT/XML).
 
-**Tech:** Python, PyTorch, VGG16, ResNet50, ViT, LPIPS, DISTS  
-🔗 https://github.com/stylianos-syrros/deep-learning-similarity-metrics-dermatology
+**Tech:** Java, Swing, OOP, File I/O, Software Design  
+🔗 https://github.com/stylianos-syrros/sales-commissions-management
 **Tech:** Java, Swing, OOP, File I/O, Software Design
 🔗 https://github.com/stylianos-syrros/sales-commissions-management
 
