@@ -40,11 +40,13 @@ Efficient similarity detection in large document collections using probabilistic
 
 ---
 
-### 🌐 Community Detection in Large-Scale Graphs  
-Graph-based analysis and community detection algorithms applied to large networks.
+### 🧩 Sales Commissions Management System (Java)
 
-**Tech:** Python, Graph Algorithms, Network Analysis  
-🔗 https://github.com/stylianos-syrros/community-detection-large-scale-graphs
+Desktop application for managing sales agents, receipts, and commission calculations.
+Includes structured data modeling, GUI interaction, and file-based persistence (TXT/XML).
+
+**Tech:** Java, Swing, OOP, File I/O, Software Design
+🔗 https://github.com/stylianos-syrros/sales-commissions-management
 
 ---
 
